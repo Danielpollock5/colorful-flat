@@ -1,0 +1,640 @@
+body{
+	margin: 0 auto;
+	font-family: 'BioRhyme', sans-serif;
+}
+.fa-heart{
+	
+	display: inline-block;
+	margin-left: 250px;
+}
+.header{
+	display: inline-block;
+	margin-right: 100px;
+	padding-top: 25px;
+	float: right;
+}
+#heart{
+	margin-left: 350px;
+}
+
+.nav{
+	padding-top: 20px;
+	background-color: #A6D2DB;
+	padding-right: 200px;
+}
+.header a:nth-child(3){
+	background-color: black;
+	color: white;
+	border-radius: 5px;
+	padding: 8px;
+
+}
+#title{
+	display: inline-block;
+
+	font-size: 20px;
+
+
+}
+
+/*top right links*/
+
+.links{
+	text-decoration: none;
+	color: black;
+	margin-left: 25px;
+	font-size: 14px;
+	margin-top: 25px;
+	margin-right: 10px;
+}
+.temp{
+	background-color: #A6D2DB;
+	columns: 2;
+	padding-top: 75px;
+	text-align: center;
+	
+	
+}
+/*first mac picture*/
+#mac{
+	height: 300px;
+	width: 300px;
+	display: block;
+	border-radius: 20px;
+	margin: 0 175px;
+
+
+}
+#second{
+	display: inline-block;
+	color: white;
+	font-size: 44px;
+	margin-left: 300px;
+    margin-top: 50px;
+
+}
+/*small three circles*/
+
+.fa-circle{
+	color: white;
+	margin-right: 25px;
+	margin-bottom: 50px;
+}
+.fa-circle-thin{
+	color: white;
+	margin-right: 25px;
+	margin-bottom: 50px;
+}
+.third{
+	background-color: #A6D2DB;
+	text-align: center;
+	padding-top: 75px;
+}
+.white{
+	columns: 3;
+	text-align: center;
+	margin: 75px 175px;
+
+
+}
+.white p{
+
+    margin-left: 60px;
+    margin-right: 60px;
+
+}
+#macimg2{
+	height: 150px;
+	width: 150px;
+	border-radius: 10px;
+
+}
+.thirdTier{
+	text-align: center;
+	background-color: #97D0A3;
+	padding-top: 50px;
+}
+.thirdTier h1{
+	font-size: 44px;
+	color: white;
+	margin-bottom: 10px;
+
+
+}
+.thirdTier p{
+	color: white;
+}
+
+#bulb{
+	height: 150px;
+	width: 150px;
+
+}
+#browser{
+	height: 150px;
+	width: 150px;
+}
+.links2{
+	text-decoration: none;
+	color: white;
+	margin-right: 25px;
+}
+.links2:nth-child(1){
+	background-color: white;
+	color: #C4C8C9;
+	padding: 5px;
+	border-radius: 10px;
+} 
+.navtwo{
+	margin-top: 100px;
+	font-weight: bold;
+	font-size: 24px;
+}
+#web{
+	border-radius: 10px;
+	border: 2px solid white;
+	padding: 5px;
+}
+.sixImages img{
+	height: 300px;
+	width: 300px;
+}
+#one, #two,
+#three, #four,
+#five, #six{
+	text-align: center;
+	padding: 50px;
+}
+/*-----------------BUTTON----------------*/
+.buttonOne{
+	text-align: center;
+	padding-bottom: 75px;
+
+}
+#numOne{
+	color: grey;
+	border: none;
+ 	background-color: white;
+    padding: 20px 32px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+				/*/////////NEXT TIER\\\\\\\\\\\\\\\\\\ FOURTH*/
+.fourthTier{
+	columns: 2;
+	padding-top: 100px;
+	background-color: #EFF1F0;
+	padding-bottom: 25px;
+}
+#browserTwo{
+	width: 300px;
+	height: 300px;
+	padding-left: 375px;
+	
+}
+.fourthTier h3{
+	font-weight: bold;
+	font-size: 24px;
+}
+.fourthTier p{
+	padding-right: 375px;
+}
+/*button two*/
+#numTwo{
+	padding: 20px 32px;
+	font-weight: bold;
+	border-radius: 5px;
+	background-color: #9BD4A3;
+}
+/*////////THIS IS THE HORIZONTAL BREAK....KINDA A PAIN BUT USED ABSOLUTE POSITION I BELIEVE CORRECTLY\\\*/
+
+.Break{
+	position: absolute;
+	background-color: #EFF1F0;
+
+}
+#firstBreak{
+	width: 55%;
+    margin-left: 375px;
+	
+	position: absolute;
+	
+}
+.fourthHalf{
+	background-color: #EFF1F0;
+	padding-top: 100px;
+	columns: 2;
+}
+
+.fourthHalf h3{
+	font-weight: bold;
+    font-size: 24px;
+	margin-left: 375px;
+}
+.fourthHalf p{
+	    margin-left: 375px;
+
+}
+/*third Browser image*/
+#browserThree{
+	width: 300px;
+	height: 300px;
+	padding-bottom: 75px;
+	margin-left: 150px;
+
+}
+.buttonThree{
+	margin-left: 375px;  
+	
+}
+/*button three*/
+#numThree{
+	padding: 20px 32px;
+    font-weight: bold;
+    border-radius: 5px;
+    background-color: #AAD0D6;
+}
+
+/*//////////////////THE FIFTH DIV\\\\\\\\\\\\\\\\\\*/
+.fifthDiv{
+	text-align: center;
+	background-color: #DCB3C3;
+	padding-top: 20px;
+	padding-bottom: 25px;
+
+}
+.fifthDiv h3{
+	font-size: 44px;
+	color: white;
+	margin-bottom: 10px;
+}
+.fifthDiv p{
+	color: white;
+	font-size: 16px;
+}
+.allPersons{
+	background-color: #DCB3C3;
+	columns: 3;
+	text-align: center;
+ 	padding-bottom: 75px;
+ 	padding-left: 75px;
+ 	padding-right: 75px;
+	
+
+}
+.fa-user{
+	color: white;
+	padding-top: 60px;
+
+
+}
+/*first person*/
+.person_First{
+	background-color:#DCB3C3;
+	
+
+	}
+
+.person_Second{
+	
+	background-color:#DCB3C3;
+
+
+
+}
+.person_Third{
+	
+	background-color:#DCB3C3;
+
+
+
+}
+.top_one,
+.top_two,
+.top_three{
+	background-color: #E9E9E9;
+	height: 200px;
+	width: 55%;
+	text-align: center;
+	margin: 0 165px;
+
+}
+.fa{
+	margin: 0 10px;
+}
+.bottom_one,
+.bottom_two,
+.bottom_three{
+	background-color: #FFFFFF;
+	margin: 0 165px;
+	padding: 20px 0;
+	width: 55%;
+}
+#facebook{
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	background-color:blue;
+	padding: 10px;
+
+}
+#twitter{
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	background-color: #A6E0F5;
+	padding: 10px;
+	color: white;
+}
+#pinterest{
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	background-color: #B63F57;
+	color: white;
+	padding: 10px;
+}
+
+
+
+/*	the hovering!!!1*/
+.fa:hover{
+	color: yellow;
+}
+a:hover{
+	color: yellow;
+}
+
+	/*section 6*/
+.sixth{
+	text-align: center;
+	padding: 50px 0;
+	background-color: #B3D3E0;
+}
+.sixth h3{
+	font-size: 44px;
+	color: white;
+	margin-bottom: 10px;
+}
+.sixth p{
+	color: white;
+	font-size: 16px;
+	margin-bottom: 100px;
+
+}.allBoxs{
+	padding: 50px -25;
+	columns: 3;
+}
+
+.fa-arrows-alt{
+	padding-top: 60px;
+
+}
+
+.firstTop,
+.secondTop,
+.thirdTop{
+	background-color: #E8E8E8;
+	height: 200px;
+
+	text-align: center;
+	margin: 0 105px;
+	width: 60%;
+}
+.firstBottom,
+.secondBottom,
+.thirdBottom{
+	background-color: white;
+	text-align: center;
+	margin: -35px 105px;
+	width: 60%;
+}
+/*///////////////ICONS\\\\\\\\\\\\\\\\\\\\*/
+i .facebook{
+	background-color: blue;
+	height: 30px;
+	width: 30px;
+	border-radius: 50%;
+}
+#facebook{
+	background-color: blue;
+	color: white;
+
+}
+.allBoxs h4{
+	padding-top: 40px;
+	font-size: 24px;
+	font-weight: bold;
+	padding-bottom: -20px;
+	margin-bottom: 0;
+
+}
+.allBoxs p{
+	color: black;
+	font-size: 12px;
+	padding-bottom: 40px;
+}
+.allBoxs h6{
+	font-size: 16px;
+	padding: 0 -20px;
+	margin-top: 0;
+
+}
+/*//////////FOURTH BUTTON\\\\\\\\\\\\\\*/
+.buttonFour{
+	text-align: center;
+	padding-bottom: 35px;
+
+}
+#numFour{
+	color: #B3D3E0;
+	border: none;
+ 	background-color: #FFF;
+    padding: 20px 32px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+/*///////////////////FOOOOOOOOTTEEEEERRRRRR\\\\\\\\\\\\\\\\\\\\\*/
+
+.contact{
+	background-color: #3C3C3C;
+	text-align: center;
+	padding-top: 10px;
+
+}
+.contact h4{
+	color: white;
+	font-size: 44px;
+	margin-bottom: -15px;
+}
+.contact p{
+	color: white;
+}
+/*	\\\				Input boxes							///*/
+input{
+	display: inline-block;
+	width: 30%;
+	border-radius: 5px;
+	margin: 5px 0;
+	height: 40px;
+}
+textarea{
+	width: 30%;
+	border-radius: 5px;
+	margin: 5px 0;
+	height: 150px;
+
+
+}
+/*fifth button*/
+
+#buttonFive{
+	color: #3C3C3C;
+	border: none;
+ 	background-color: #FFF;
+    padding: 20px 32px;
+    font-weight: bold;
+    border-radius: 5px;
+    margin: 50px 0;
+}
+
+/*SECOND BREAD*/
+
+.breaktwo{
+	
+	color: yellow;
+}
+#secondBreak{
+	width: 55%;
+    margin-left: 375px;
+	position: absolute;
+	border-color: black;
+}
+/*////////////Footer\\\\\\\\\\\\\\\*/
+span{
+	color: yellow;
+}
+.footer i{ opacity: 0.4;
+ 	background-color: #525252;
+ 	border-radius: 50%;
+ 	border: 1px solid grey;
+ 	padding:10px;
+ 	height: 30px;
+ 	width: 30px;
+}
+.footer{
+	padding: 100px 0;
+	text-align: center;
+	background-color: #3C3C3C;
+}
+/*
+
+	
+
+					1360PX---------------------------------1360px
+
+
+
+
+*/
+@media (max-width: 1360px){
+	*{
+		background-color: #A6D2DB
+	}
+	#mac{
+		display: none;
+	}
+	#heart{
+		margin-left: 300px;
+	}
+	#title{
+		display: none;
+
+	}
+	.links{
+		margin-left: 10px;
+		margin-top: 10px;
+
+	}
+	
+}
+
+
+
+			/*
+
+
+				1040px-------------------------------------------1040px
+
+
+			*/
+@media(max-width: 1040px){
+	#heart{
+		margin-left: 200px;
+	}
+
+	.links{
+		margin-right: 10px;
+	}
+
+
+}
+/*
+
+
+				940px--------------------------------------------940px
+
+
+
+*/
+@media(max-width: 940px){
+	#heart{
+		margin-left: 100px;
+	}
+}
+/*
+
+
+			840px---------------------------------------------840px
+
+
+
+*/
+@media(max-width: 840px){
+	#heart{
+		margin-left: 0px;
+	}
+	.links{
+		margin: 0 auto;
+	}
+
+	
+}
+/*
+
+
+			740px-------------------------------------------740px
+
+*/
+@media(max-width: 740px){
+	#heart{
+		display: none;
+	}
+	h1 #second{
+		margin-left: 100px;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

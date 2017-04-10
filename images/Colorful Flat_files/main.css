@@ -1,0 +1,52 @@
+body{
+	margin: 0 auto;
+		font-family: 'BioRhyme', sans-serif;
+}
+.fa-heart{
+	
+	display: inline-block;
+	margin-left: 100px;
+
+
+
+}
+
+.nav{
+	padding-top: 20px;
+	background-color: #A6D2DB;
+}
+#title{
+	display: inline-block;
+	margin-left: 20px;
+	margin-right: 20px;
+	font-size: 16px;
+
+
+}
+
+
+
+.links{
+	text-decoration: none;
+	color: black;
+	margin-left: 25px;
+	font-size: 14px;
+	margin-top: 25px;
+	margin-right: 10px;
+}
+.temp{
+	background-color: #A6D2DB;
+	
+	
+}
+#mac{
+	height: 300px;
+	width: 300px;
+	display: inline-block;
+	border-radius: 20px;
+}
+#second{
+	display: inline-block;
+	color: white;
+	font-size: 24px;
+}
